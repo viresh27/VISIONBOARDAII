@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "express": "...",
+    "cors": "...",
+    "node-fetch": "..."
+  }
+}
