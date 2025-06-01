@@ -131,11 +131,11 @@ visionboard-ai/
 ### 🎉 Goal Completion Animation
 > Confetti message when progress reaches 100%
 
-![Goal Completed](assets/goal-completed.png)
+![Goal Completed](assets/goal-completed.jpg)
 
 ---
 
 ### 📱 Responsive Mobile View
 > Works great on mobile screens too!
 
-![Mobile View](assets/mobile-view.png)
+![Mobile View](assets/mobile-view.jpg)
